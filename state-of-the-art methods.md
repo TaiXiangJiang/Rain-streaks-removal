@@ -47,9 +47,38 @@ state-of-the-art derain methods (video & single image)
 * Deep Joint Rain Detection and Removal (Yang *et al.* CVPR 2017)
   * Deep joint rain detection and removal from a single image. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)] [[project (codes data results)](http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)]
   
-* Error-optimized sparse representation (
+* Error-optimized sparse representation (Chen *et al.* IEEE TIE 2017)
+  * Error-optimized sparse representation for single image rain removal. [[PDF](https://ieeexplore.ieee.org/abstract/document/7878618/)]
   
-  
-[[PDF]()]
-[[PDF]()]
+* MoG (Wei *et al.* ICCV 2017)
+  * Should We Encode Rain Streaks in Video as Deterministic or Stochastic?  
+[[PDF](http://openaccess.thecvf.com/content_iccv_2017/html/Wei_Should_We_Encode_ICCV_2017_paper.html)] 
+[[code](https://github.com/wwxjtu/RainRemoval_ICCV2017)]
+
+* Joint Bi-layer Optimization (Zhu *et al.* ICCV 2017)
+  * Joint Bi-layer Optimization for Single-image Rain Streak Removal. 
+ [[PDF](http://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Joint_Bi-Layer_Optimization_ICCV_2017_paper.html)]
+ [code]
+ 
+* Matrix decomposition (Ren *et al.* CVPR 2017)
+  * Video Desnowing and Deraining Based on Matrix Decomposition. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/html/Ren_Video_Desnowing_and_CVPR_2017_paper.html)]
+ [code]
+ 
+* Joint Convolutional Analysis and Synthesis Sparse Representation (Gu *et al.* ICCV 2017)
+  *  Joint Convolutional Analysis and Synthesis Sparse Representation for Single Image Layer Separation.
+  [[PDF](http://openaccess.thecvf.com/content_iccv_2017/html/Gu_Joint_Convolutional_Analysis_ICCV_2017_paper.html)]
+ [[code](http://www4.comp.polyu.edu.hk/~cslzhang/code/JCAS_Release.zip)]  [[Gu's homepage](https://sites.google.com/site/shuhanggu/home)]
+ 
+* Hierarchical (Wang *et al.* IEEE TIP 2017)
+  * A Hierarchical Approach for Rain or Snow Removing in a Single Color Image. 
+ 
+  [[PDF](http://ieeexplore.ieee.org/abstract/document/7934435/)]
+ [code]
+ 
+  [[PDF]()]
+ [[code]()]
+ 
+  [[PDF]()]
+ [[code]()]
+[[PDF]()] [[PDF]()] [[PDF]()] [[PDF]()] [[PDF]()] [[PDF]()]
  [[code]()] [[code]()] [[code]()] [[code]()] [[code]()]
