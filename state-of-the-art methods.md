@@ -13,7 +13,7 @@ state-of-the-art derain methods (video & single image)
 
   * Removing rain from a single image via discriminative sparse coding.  [[PDF](http://ieeexplore.ieee.org/document/7410745/)] [[code](http://www.math.nus.edu.sg/~matjh/download/image_deraining/rain_removal_v.1.1.zip)]
 
-* Layer prior (Li et al. CVPR 2016 and TIP 2017)
+* Layer prior (Li et al. CVPR 2016 and IEEE TIP 2017)
   * Rainstreakremovalusinglayerpriors. [[PDF](https://ieeexplore.ieee.org/document/7780668/)]
   * Single Image Rain Streak Decomposition Using Layer Priors. [[PDF](https://ieeexplore.ieee.org/abstract/document/7934436/)]
  [rainy images dataset]
@@ -21,7 +21,7 @@ state-of-the-art derain methods (video & single image)
 * Temporal correlation and low-rank matrix completion (Kim et al. TIP 2015)
   * Video deraining and desnowing using temporal correlation and low-rank matrix completion Adherent raindrop modeling. [[PDF](https://ieeexplore.ieee.org/abstract/document/7101234/)] [[code](http://mcl.korea.ac.kr/~jhkim/deraining/)]
 
-* Adherent raindrop modeling (You et al. TPAMI 2016)
+* Adherent raindrop modeling (You et al. IEEE TPAMI 2016)
   * Adherent raindrop modeling, detectionand removal in video. [[PDF](https://ieeexplore.ieee.org/abstract/document/7299675/)] [[project page](http://www.cvl.iis.u-tokyo.ac.jp/~yousd/CVPR2013/Shaodi_CVPR2013.html "Not Available")]
   
 
@@ -37,6 +37,12 @@ state-of-the-art derain methods (video & single image)
   * A novel tensor-based video rain streaks removal approach via utilizing discriminatively intrinsic priors. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/html/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.html)]
   * Fastderain: A novel video rain streak removal method using directional gradient priors. [[PDF](https://arxiv.org/abs/1803.07487)][[code](https://github.com/TaiXiangJiang/FastDeRain)] 
 
+* Deep detail network (Fu *et al.* CVPR 2017 IEEE TIP 2017)
+  * Removing rain from single images via a deep detail network. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)] [[code](https://xueyangfu.github.io/projects/cvpr2017.html)]
+  * Clearing the skies: A deep network architecture for single-image rain removal. [[PDF](https://ieeexplore.ieee.org/abstract/document/7893758/)] [[code](https://xueyangfu.github.io/projects/tip2017.html)] 
+
+
+Removing rain from single images via a deep detail network
 [[PDF]()]
 [[PDF]()]
  [[code]()] [[code]()] [[code]()] [[code]()] [[code]()]
