@@ -37,6 +37,10 @@ state-of-the-art derain methods (video & single image)
   * A novel tensor-based video rain streaks removal approach via utilizing discriminatively intrinsic priors. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/html/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.html)]
   * Fastderain: A novel video rain streak removal method using directional gradient priors. [[PDF](https://arxiv.org/abs/1803.07487)][[code](https://github.com/TaiXiangJiang/FastDeRain)] 
 
+* Directional global sparse (Deng *et al.*)
+  * A directional global sparse model for single image rain removal.  [[PDF](https://www.sciencedirect.com/science/article/pii/S0307904X18301069)]
+ [[code](http://www.escience.cn/people/dengliangjian/index.html)] [[code](https://github.com/uestctensorgroup/FastDeRain)]
+
 * Deep detail network (Fu *et al.* CVPR 2017 IEEE TIP 2017)
   * Removing rain from single images via a deep detail network. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)] [[code](https://xueyangfu.github.io/projects/cvpr2017.html)]
   * Clearing the skies: A deep network architecture for single-image rain removal. [[PDF](https://ieeexplore.ieee.org/abstract/document/7893758/)] [[code](https://xueyangfu.github.io/projects/tip2017.html)] 
@@ -62,7 +66,6 @@ state-of-the-art derain methods (video & single image)
  
 * Matrix decomposition (Ren *et al.* CVPR 2017)
   * Video Desnowing and Deraining Based on Matrix Decomposition. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/html/Ren_Video_Desnowing_and_CVPR_2017_paper.html)]
- [code]
  
 * Joint Convolutional Analysis and Synthesis Sparse Representation (Gu *et al.* ICCV 2017)
   *  Joint Convolutional Analysis and Synthesis Sparse Representation for Single Image Layer Separation.
@@ -71,10 +74,12 @@ state-of-the-art derain methods (video & single image)
  
 * Hierarchical (Wang *et al.* IEEE TIP 2017)
   * A Hierarchical Approach for Rain or Snow Removing in a Single Color Image. 
- 
   [[PDF](http://ieeexplore.ieee.org/abstract/document/7934435/)]
- [code]
  
+2018 
+---
+
+
   [[PDF]()]
  [[code]()]
  
