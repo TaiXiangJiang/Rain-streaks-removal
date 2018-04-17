@@ -41,8 +41,15 @@ state-of-the-art derain methods (video & single image)
   * Removing rain from single images via a deep detail network. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)] [[code](https://xueyangfu.github.io/projects/cvpr2017.html)]
   * Clearing the skies: A deep network architecture for single-image rain removal. [[PDF](https://ieeexplore.ieee.org/abstract/document/7893758/)] [[code](https://xueyangfu.github.io/projects/tip2017.html)] 
 
-
-Removing rain from single images via a deep detail network
+* Conditional GAN (Zhang *et al.* arXiv 2017)
+  * Image De-raining Using a Conditional Generative Adversarial Network. [[PDF](https://arxiv.org/abs/1701.05957)] [[code](https://github.com/hezhangsprinter/ID-CGAN)] [[Project](http://www.rci.rutgers.edu/~vmp93/index_ImageDeRaining.html)]
+  
+* Deep Joint Rain Detection and Removal (Yang *et al.* CVPR 2017)
+  * Deep joint rain detection and removal from a single image. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)] [[project (codes data results)](http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)]
+  
+* Error-optimized sparse representation (
+  
+  
 [[PDF]()]
 [[PDF]()]
  [[code]()] [[code]()] [[code]()] [[code]()] [[code]()]
