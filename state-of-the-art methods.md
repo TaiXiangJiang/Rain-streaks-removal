@@ -35,8 +35,8 @@ state-of-the-art derain methods (video & single image)
 
 * Tensor based method (FastDeRain) (Jiang et al. CVPR 2017 arXiv 2018)
   * A novel tensor-based video rain streaks removal approach via utilizing discriminatively intrinsic priors. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/html/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.html)]
-  * Fastderain: A novel video rain streak removal method using directional gradient priors. [[PDF](https://arxiv.org/abs/1803.07487)]
+  * Fastderain: A novel video rain streak removal method using directional gradient priors. [[PDF](https://arxiv.org/abs/1803.07487)][[code](https://github.com/TaiXiangJiang/FastDeRain)] 
 
 [[PDF]()]
 [[PDF]()]
- [[code]()] [[code]()] [[code]()] [[code]()] [[code]()] [[code]()]
+ [[code]()] [[code]()] [[code]()] [[code]()] [[code]()]
