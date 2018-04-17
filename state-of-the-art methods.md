@@ -34,9 +34,9 @@ state-of-the-art derain methods (video & single image)
   * Transformed Low-Rank Model for Line Pattern Noise Removal. [[PDF](http://openaccess.thecvf.com/content_iccv_2017/html/Chang_Transformed_Low-Rank_Model_ICCV_2017_paper.html)]
 
 * Tensor based method (FastDeRain) (Jiang et al. CVPR 2017 arXiv 2018)
-  * A novel tensor-based video rain streaks removal approach via utilizing discriminatively intrinsic priors.
+  * A novel tensor-based video rain streaks removal approach via utilizing discriminatively intrinsic priors. [[PDF](http://openaccess.thecvf.com/content_cvpr_2017/html/Jiang_A_Novel_Tensor-Based_CVPR_2017_paper.html)]
+  * Fastderain: A novel video rain streak removal method using directional gradient priors. [[PDF](https://arxiv.org/abs/1803.07487)]
 
-[[PDF]()]
 [[PDF]()]
 [[PDF]()]
  [[code]()] [[code]()] [[code]()] [[code]()] [[code]()] [[code]()]
