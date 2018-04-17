@@ -22,7 +22,7 @@ state-of-the-art derain methods (video & single image)
   * Video deraining and desnowing using temporal correlation and low-rank matrix completion Adherent raindrop modeling [[PDF](https://ieeexplore.ieee.org/abstract/document/7101234/)] [[code](http://mcl.korea.ac.kr/~jhkim/deraining/)]
 
 * Adherent raindrop modeling (You et al. TPAMI 2016)
-  * Adherent raindrop modeling, detectionand removal in video [[PDF](https://ieeexplore.ieee.org/abstract/document/7299675/)] [[project page](http://www.cvl.iis.u-tokyo.ac.jp/~yousd/CVPR2013/Shaodi_CVPR2013.html) "Not Available"]
+  * Adherent raindrop modeling, detectionand removal in video [[PDF](https://ieeexplore.ieee.org/abstract/document/7299675/)] [[project page](http://www.cvl.iis.u-tokyo.ac.jp/~yousd/CVPR2013/Shaodi_CVPR2013.html "Not Available") ]
 
 
 
