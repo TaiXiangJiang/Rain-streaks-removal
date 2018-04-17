@@ -9,12 +9,9 @@ state-of-the-art derain methods (video & single image)
 2015-2016
 --
 
-# 一级标题 
+* Discriminative sparse coding (ICCV 2017 Luo et al.)
 
-
-# Discriminative sparse coding (ICCV 2017 Luo et al.)
-
-## Removing rain from a single image via discriminative sparse coding [PDF] [code]
+** Removing rain from a single image via discriminative sparse coding [PDF] [code]
 
 # Layer prior 
 (Li et al. CVPR 2016 [PDF] TIP 2017 [PDF] ) [rainy images dataset]
