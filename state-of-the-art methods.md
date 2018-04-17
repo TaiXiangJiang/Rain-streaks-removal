@@ -25,7 +25,7 @@ state-of-the-art derain methods (video & single image)
   * Adherent raindrop modeling, detectionand removal in video. [[PDF](https://ieeexplore.ieee.org/abstract/document/7299675/)] [[project page](http://www.cvl.iis.u-tokyo.ac.jp/~yousd/CVPR2013/Shaodi_CVPR2013.html "Not Available")]
   
 
-* Local phase information (Santhaseelan et al. IJCV 2015)
+* Local phase information (Santhaseelan *et al.* IJCV 2015)
   * Utilizing local phase information to remove rain from video. [[PDF](https://link.springer.com/article/10.1007/s11263-014-0759-8)] 
 
 2017
@@ -33,6 +33,8 @@ state-of-the-art derain methods (video & single image)
 * Transformedlow-rank (Chang et al. ICCV 2017)
   * Transformed Low-Rank Model for Line Pattern Noise Removal. [[PDF](http://openaccess.thecvf.com/content_iccv_2017/html/Chang_Transformed_Low-Rank_Model_ICCV_2017_paper.html)]
 
+* Tensor based method (FastDeRain) (Jiang et al. CVPR 2017 arXiv 2018)
+  * A novel tensor-based video rain streaks removal approach via utilizing discriminatively intrinsic priors.
 
 [[PDF]()]
 [[PDF]()]
