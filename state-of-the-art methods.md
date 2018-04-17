@@ -1,5 +1,11 @@
 state-of-the-art derain methods (video & single image)
 ==
+
+|Author|Tai-Xiang Jiang|
+|---|---
+|E-mail|Taixiangjiang@gmail.com
+
+
 2015-2016
 --
 
