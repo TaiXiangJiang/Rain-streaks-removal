@@ -14,7 +14,7 @@ state-of-the-art derain methods (video & single image)
   * Removing rain from a single image via discriminative sparse coding.  [[paper](http://ieeexplore.ieee.org/document/7410745/)] [[code](http://www.math.nus.edu.sg/~matjh/download/image_deraining/rain_removal_v.1.1.zip)]
 
 * Layer prior (Li et al. CVPR 2016 and IEEE TIP 2017)
-  * Rainstreakremovalusinglayerpriors. [[paper](https://ieeexplore.ieee.org/document/7780668/)]
+  * Rain streak removal using layer priors. [[paper](https://ieeexplore.ieee.org/document/7780668/)]
   * Single Image Rain Streak Decomposition Using Layer Priors. [[paper](https://ieeexplore.ieee.org/abstract/document/7934436/)]
  [[rainy images dataset](http://yu-li.github.io/paper/li_cvpr16_rain.zip)] [[Li's homepage](http://yu-li.github.io/)]
  
